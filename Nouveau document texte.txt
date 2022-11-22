@@ -2,3 +2,5 @@ bonjour
 le monde
 Comment ca va?
 comme ci comme ca..
+
+On apprends branch sur git
